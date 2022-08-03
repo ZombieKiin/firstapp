@@ -43,5 +43,7 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<classpath>
+		<classpathentry kind="lib" path="C:/Program Files/Amazon Corretto/jdk11.0.15_9/legal"/>
+	</classpath>
 </project>
